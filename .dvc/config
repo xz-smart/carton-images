@@ -1,0 +1,4 @@
+[core]
+    remote = cartonimages
+['remote "cartonimages"']
+    url = s3://test-carton-images
